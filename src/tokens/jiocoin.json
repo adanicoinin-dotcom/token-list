@@ -1,0 +1,10 @@
+{
+  "chainId": 101,
+  "address": "DgTsezUCXsNCaWU3QNqgTudnPyBegLADUsVCT7BdwGsM",
+  "symbol": "JIOCOIN",
+  "name": "Jiocoin",
+  "decimals": 9,
+  "logoURI": "https://raw.githubusercontent.com/adanicoinin-dotcom/jiocoin-assets/d638669dcfd7f7045c8039926c853e29f22a014a/jiocoin%20solana-256x256.png,
+  "tags": ["community", "utility"]
+}
+
